@@ -8,7 +8,7 @@ Currently learning **Next.js**, **TypeScript**, and **Framer Motion** to become 
 ### 🚀 Featured Projects
 
 - 🕐 [Expresso Martini](https://github.com/erickjavier/expresso-martini) — A dual-theme landing page (coffee shop by day, bar by night) that changes its layout and theme based on the time of day.
-- ✅ [Taskify Pro (WIP)](https://github.com/erickjavier/taskify-pro) — A modern Trello-like task manager built with Next.js, TypeScript, drag & drop, and clean architecture.
+- ✅ [Taskify Pro (WIP)](https://github.com/erickjavier/taskify-pro) — still in Process
 
 ---
 
